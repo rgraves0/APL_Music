@@ -32,7 +32,12 @@ The following tools are optional but required for specific features. Add them to
     * Required when setting `mp4box` as remux mode.
 * [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/releases/latest)
     * Required when setting `nm3u8dlre` as download mode.
- 
+
+## Requirement
+* Need FFMPEG
+* Install Tutorail for FFMPG Check this link 👇👇👇
+* https://www.youtube.com/watch?v=xJRqwY46ewY 
+
 ## Installation
 1. Install the package `gamdl` using pip
     ```bash
